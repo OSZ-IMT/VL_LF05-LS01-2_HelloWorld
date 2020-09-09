@@ -1,4 +1,4 @@
-# LF5_01_HelloWorld
+# LF05-LS01-2_HelloWorld
 Beispielprojekt zum Umgang mit Github Classroom.
 
 # Aufgaben
