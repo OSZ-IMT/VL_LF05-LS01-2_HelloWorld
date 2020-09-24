@@ -1,4 +1,4 @@
-# LS: Fahrkartenautomat-0 HelloWorld
+# LS: Fahrkartenautomat-2 HelloWorld
 Beispielprojekt zum Umgang mit Github Classroom.
 
 # Aufgaben
