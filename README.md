@@ -1,4 +1,4 @@
-# LF05-LS01-2_HelloWorld
+# LS: Fahrkartenautomat-2 HelloWorld
 Beispielprojekt zum Umgang mit Github Classroom.
 
 # Aufgaben
