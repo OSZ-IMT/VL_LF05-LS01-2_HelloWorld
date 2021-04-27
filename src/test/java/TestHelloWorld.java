@@ -41,6 +41,8 @@ public class TestHelloWorld {
     @Test
     public void testNotFirstName()
     {
+        //pretest
+        testStrukturierteProgrammierung();
 
         // action
         HelloWorld.main(null);
@@ -53,6 +55,8 @@ public class TestHelloWorld {
     @Test
     public void testNotBrackets()
     {
+        //pretest
+        testStrukturierteProgrammierung();
 
         // action
         HelloWorld.main(null);
